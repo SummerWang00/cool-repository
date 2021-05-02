@@ -3,8 +3,8 @@
 ## What's in this project?
 ← README.md: That's this file, where you can tell people what your cool website does and how you built it.
 
-← index.html: This is the main HTML page for your site.
+← index.html: This is the main HTML page for my site.
 
-← style.css: CSS files add styling rules to your content.
+← style.css: CSS files add styling rules to the content.
 
-← script.js: If you're feeling fancy you can add interactivity to your site with JavaScript.
+← script.js: Fancy interactive functions created with JavaScript.
